@@ -15,7 +15,7 @@ Parameters:
     fileName - 文件名
     
 Returns:
-    dataMat - 数据矩阵
+    dataMat - 
 
 Modify:
     2018-08-01
