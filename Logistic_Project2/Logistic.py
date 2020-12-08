@@ -167,3 +167,5 @@ def classifyVector(inX, weights):
 
 if __name__ == '__main__':
     colicTest()
+
+    print('end')
