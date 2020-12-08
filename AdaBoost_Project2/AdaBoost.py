@@ -215,4 +215,3 @@ if __name__ == '__main__':
     predictions = adaClassify(testArr, weakClassArr)
     errArr = np.mat(np.ones((len(testArr), 1)))
     print('测试集的错误率:%.3f%%' % float(errArr[predictions != np.mat(testLabelArr).T].sum() / len(testArr) * 100))
-    
