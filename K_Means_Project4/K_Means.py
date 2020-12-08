@@ -33,3 +33,5 @@ if __name__ == '__main__':
     print('xj')
     print('good')
     print('boy')
+
+    print('begin')
