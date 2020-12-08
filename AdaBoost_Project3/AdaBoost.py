@@ -54,3 +54,6 @@ if __name__ == '__main__':
         if testLabelArr[i] != predictions[i]:
             errArr[i] = 1
     print('测试集的错误率:%.3f%%' % float(errArr.sum() / len(testArr) * 100))
+
+
+    print('wc')
