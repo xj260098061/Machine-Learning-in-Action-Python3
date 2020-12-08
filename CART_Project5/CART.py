@@ -479,4 +479,4 @@ if __name__ == '__main__':
         yHat[i] = testMat[i, 0] * ws[1, 0] + ws[0, 0]
     LinearRegression = np.corrcoef(yHat, testMat[:, 1], rowvar=0)[0, 1]
     print("线性回归拟合精度 = ", LinearRegression)
-    
+    print ("bo")
