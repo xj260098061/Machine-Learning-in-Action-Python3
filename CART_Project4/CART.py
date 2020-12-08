@@ -9,7 +9,7 @@ import numpy as np
 import types
 
 """
-函数说明：加载数据
+函数说明：
 
 Parameters:
     fileName - 文件名
